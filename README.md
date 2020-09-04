@@ -1,2 +1,3 @@
 # hello-world
 First repository
+Github is so confusing!! I'm gonna fail college...
